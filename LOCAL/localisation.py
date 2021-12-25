@@ -1,4 +1,4 @@
-START_TEXT = "Send me any file to begin."
+START_TEXT = "Asalam alaikum shuru krne khatre soaz kanh file."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
@@ -6,7 +6,7 @@ CHANNEL_LINK = "https://t.me/Traaaaaal"
 
 SUPPORT_LINK = "https://t.me/Dsrs_Group"
 
-info_text = "This bot is developed by @kashmir_1\n\nWritten in python library TELETHON.\n\nBot by : Dsrs_Group\nSupport : @\Traaaaaaln\nV1.1"   
+info_text = "This bot is developed by @kashmir_1\n\nWritten in python library TELETHON.\n\nBot by : @Dsrs_Group\nSupport : @\Traaaaaaln\nV1.1"   
 
 help_text = "Asalam alaikum soaz saa kanh te video file compress kkhatre yaa rename .\n\n/quality gase ne khn gasun\n/wariyan formatan mnx bnawan yaa banawas auidio\n/navblawne khatre chuene extension zaroori kyanh \n/trim - baye kr be videos cut te" 
 
