@@ -2,17 +2,17 @@ START_TEXT = "Send me any file to begin."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
-CHANNEL_LINK = "https://t.me/DroneBots"
+CHANNEL_LINK = "https://t.me/Traaaaaal"
 
-SUPPORT_LINK = "https://t.me/TeamDrone"
+SUPPORT_LINK = "https://t.me/Dsrs_Group"
 
-info_text = "This bot is developed by @ChauhanMahesh\n\nWritten in python library TELETHON.\n\nBot by : @DroneBots\nSupport : @TeamDrone\n\nV1.1"   
+info_text = "This bot is developed by @kashmir_1\n\nWritten in python library TELETHON.\n\nBot by : Dsrs_Group\nSupport : @\Traaaaaaln\nV1.1"   
 
-help_text = "Send me any video file to start compressing it or any kind of file to rename it.\n\n/compress - negligible loss compression\n/convert - change formats or extract audio of any video\n/rename - rename any file, extension not required\n/trim - cut your videos" 
+help_text = "Asalam alaikum soaz saa kanh te video file compress kkhatre yaa rename .\n\n/quality gase ne khn gasun\n/wariyan formatan mnx bnawan yaa banawas auidio\n/navblawne khatre chuene extension zaroori kyanh \n/trim - baye kr be videos cut te" 
 
 source_text = "Deploy your own bot.\n\nMain branch - Personal use\nPublic branch - For your channel"
 
-DEV = "https://t.me/ChauhanMahesh"
+DEV = "https://t.me/kashmir_1"
 
 spam_notice = "This bot is hosted on heroku, and hence can run just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
