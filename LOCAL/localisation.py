@@ -1,6 +1,6 @@
 START_TEXT = "Asalam alaikum shuru krne khatre soaz kanh file."
 
-FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
+FORCE_SUB_TEXT = "Be istamal krne khatre chay myan channelzaroori join kren."
 
 CHANNEL_LINK = "https://t.me/Traaaaaal"
 
