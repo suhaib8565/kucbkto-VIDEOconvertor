@@ -1,6 +1,6 @@
 {
     "name": "VideoConvertor",
-    "description": "A stable and Fast telegram video convertor bot which can compress, convert(video into audio and other video formats), rename and trim.",
+    "description": "Asalam alikum waramhatullahi wabarkatu, be kre convert(video audio mnx te bye waryan other  formatn mnx), bye rename te  trim.",
     "logo": "",
     "keywords": [
         "Best",
@@ -8,9 +8,9 @@
         "compressor",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/VideoConvertor",
+    "repository": "https://t.me/kashmir_1",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/kashmir_1",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
