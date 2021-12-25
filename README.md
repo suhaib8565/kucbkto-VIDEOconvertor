@@ -14,11 +14,11 @@
 
 `Public branch` - For your channel
 <p align="left">
-<a href="https://github.com/vasusen-code/VIDEOconvertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blue?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/kucbkto/VIDEOconvertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blue?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
 `Telegran Channel` - DroneBots
-<p><a href="https://t.me/DroneBots"> <img src="https://img.shields.io/badge/Telegram-Join%20Channel-gold?style=for-the-badge&logo=telegram" width="220""/></a></p>
+<p><a href="https://t.me/Dsrs_Group"> <img src="https://img.shields.io/badge/Telegram-Join%20Channel-gold?style=for-the-badge&logo=telegram" width="220""/></a></p>
 
 # Main branch
 Main branch is to deploy a bot for your `personal` use only. For extra features deploy from `public` branch.
